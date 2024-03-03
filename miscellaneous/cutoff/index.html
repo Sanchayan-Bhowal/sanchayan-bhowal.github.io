@@ -1,0 +1,159 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><title>Sanchayan Bhowal | Cutoff phenomenon in Markov chains</title><meta name=description content><meta property="og:image" content="https://sanchayan-bhowal.github.io/img/dp.jpg"><meta property="og:title" content="Sanchayan Bhowal | Cutoff phenomenon in Markov chains"><meta property="og:description" content><meta name=author content="Sanchayan Bhowal"><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css integrity=sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2 crossorigin=anonymous><link rel=preload href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Saira+Extra+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap" as=style onload='this.onload=null,this.rel="stylesheet"'><noscript><link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Saira+Extra+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap"></noscript><link rel=preload href=https://use.fontawesome.com/releases/v5.15.1/css/all.css as=style onload='this.onload=null,this.rel="stylesheet"'><noscript><link rel=stylesheet href=https://use.fontawesome.com/releases/v5.15.1/css/all.css></noscript><link rel=preload href=https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css integrity="sha512-JW3fT0YTK7pT7w437SoX6GcW76jOZ6E0jGmrqBAcloC4GKT+njHOY4fX5KxJ9WfIXTkNrAF994525fAHp+KCxg==" crossorigin=anonymous as=style onload='this.onload=null,this.rel="stylesheet"'><noscript><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css integrity="sha512-JW3fT0YTK7pT7w437SoX6GcW76jOZ6E0jGmrqBAcloC4GKT+njHOY4fX5KxJ9WfIXTkNrAF994525fAHp+KCxg==" crossorigin=anonymous></noscript><link rel=preload href=https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css integrity="sha512-QKC1UZ/ZHNgFzVKSAhV5v5j73eeL9EEN289eKAEFaAjgAiobVAnVv/AGuPbXsKl1dNoel3kNr6PYnSiTzVVBCw==" crossorigin=anonymous as=style onload='this.onload=null,this.rel="stylesheet"'><noscript><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css integrity="sha512-QKC1UZ/ZHNgFzVKSAhV5v5j73eeL9EEN289eKAEFaAjgAiobVAnVv/AGuPbXsKl1dNoel3kNr6PYnSiTzVVBCw==" crossorigin=anonymous></noscript><link rel=preload href=https://sanchayan-bhowal.github.io/css/resume.css as=style onload='this.onload=null,this.rel="stylesheet"'><noscript><link rel=stylesheet href=https://sanchayan-bhowal.github.io/css/resume.css></noscript><link rel=preload href=https://sanchayan-bhowal.github.io/css/tweaks.css as=style onload='this.onload=null,this.rel="stylesheet"'><noscript><link rel=stylesheet href=https://sanchayan-bhowal.github.io/css/tweaks.css></noscript><link rel=preload href=https://sanchayan-bhowal.github.io/css/resume-override.css as=style onload='this.onload=null,this.rel="stylesheet"'><noscript><link rel=stylesheet href=https://sanchayan-bhowal.github.io/css/resume-override.css></noscript><meta name=generator content="Hugo 0.105.0"></head><body id=page-top><nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id=sideNav><a class="navbar-brand js-scroll-trigger" href=#page-top><span class="d-block d-lg-none">Sanchayan Bhowal</span>
+<span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src=/img/dp.jpg alt></span></a>
+<button class=navbar-toggler type=button data-toggle=collapse data-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse" id=navbarSupportedContent><ul class=navbar-nav><li class=nav-item><a class="nav-link js-scroll-trigger" href=/#about>About</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=/#education>Education</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=/#experience>Experience</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=/#research>Research</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=/#publications>Activities</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=/#skills>Presentations</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=/#miscellaneous>Miscellaneous</a></li><li class=nav-item><a class="nav-link js-scroll-trigger" href=/#socialization>Contact</a></li></ul></div></nav><div class="container-fluid p-0"><nav aria-label=breadcrumb><ol class=breadcrumb><li class=breadcrumb-item><a href=https://sanchayan-bhowal.github.io/>Home</a></li><li class=breadcrumb-item><a href=https://sanchayan-bhowal.github.io/miscellaneous/>Miscellaneous</a></li><li class="breadcrumb-item active"><a href=https://sanchayan-bhowal.github.io/miscellaneous/cutoff/>Cutoff phenomenon in Markov chains</a></li></ol></nav><section class="resume-section p-3 p-lg-5 d-flex flex-column"><div class=my-auto><div class="mb-3 d-flex flex-row justify-content-between"><h2 class=mb-0><span class=text-primary>Cutoff phenomenon in Markov chains</span></h2><span>February 24, 2024</span></div><div><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css integrity=sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js integrity=sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG+vnGctmUb0ZY0l8 crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js integrity=sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05 crossorigin=anonymous onload='renderMathInElement(document.body,{globalGroup:!0,delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1},{left:"\\(",right:"\\)",display:!1},{left:"\\[",right:"\\]",display:!0}],throwOnError:!1})'></script><h3 id=introduction>Introduction</h3><p>A sequence of random variables $ (X_0, X_1, . . .)$ is said to be a Markov chain with state space $\mathcal{X}$ and transition matrix $P$ if $\forall x, y \in \mathcal{X} \text{ and } \forall t \geq 1$, the probability of moving to the next state depends only on the present state and not on the previous states.
+Consider, an irreducible aperiodic Markov chain $X_t$ with a transition matrix $P$ on a finite state space $\mathcal{X}$. If $\pi P=P$, then the distribution is said to be stationary for the Markov chain. Since the Markov chain is irreducible, the stationary distribution is unique ([8], Corollary 1.17).</p><p>In order to quantify the convergence of Markov chains, we would require a metric to measure distances between distributions. Assume that $\mu$ and $\nu$ are two probability distributions on the finite state space $\mathcal{X}$. The notion of distance between them can be defined in many ways. One such definition is the total variation distance,
+$$\left\vert \mu-\nu \right\vert_{\mathrm{TV}} :=\frac{1}{2}\sum_{x \in \mathcal{X}} |\mu (x)-\nu (x)|.$$</p><p>This distance can be used to define the distance between the stationary distributions of the Markov chain and the probability distribution at time $t$.
+$$
+d (t) := \max_{x \in X} \left\vert P^t (x, \cdot)-\pi \right\vert_{\mathrm{TV}},
+$$</p><p>where $P^t (x, \cdot)$ denotes the $x^{\mathrm{th}}$ row of $P^t$. By the convergence theorem ([8], Theorem 4.9), $d (t)\rightarrow 0$ as $t\rightarrow \infty$.</p><p>The $\varepsilon$-mixing time is,</p><h5 id=definition>Definition</h5><p>$$
+t_{\mathrm{mix}}(\varepsilon):= \min_{t \in \mathbb{N}} \left\{t | d (t)&lt;\varepsilon\right\}.
+$$
+The mixing time is defined to be $t_{\mathrm{mix}}:= t_{\mathrm{mix}}\left(\frac{1}{4}\right)$.</p><p>Although the mixing time is difficult to evaluate exactly, we can still give bounds on it. It is often useful to find a function $f$ such that the difference between the expectation of $f (X_t)$ and that of $f$ under $\pi$ is bounded, to get a lower bound on the mixing time.</p><h5 id=proposition>Proposition</h5><p>Let $X_t$ be a Markov chain with transition matrix $P$. Let $f$ be a function on the finite state space $\mathcal{X}$. If $| \operatorname{E}_x f(X_t) - \operatorname{E}_\pi f| \leq r\sigma_*,$
+for $r>0$ and $\sigma_*=\sqrt{\max\left\{ \operatorname{Var}_x [f (X_t)], \operatorname{Var}_\pi (f)\right\}}$, then
+$$
+|P^t (x, \cdot)-\pi|_{\mathrm{TV}}\geq 1-\frac{8}{r^2}.
+$$</p><p>Similarly the mixing time can be upper bounded by many methods introducing suitable couplings and strong stationary times. Another method is using the spectral properties of the transition matrix. This technique works for \textit{reversible} chains, i.e. chains for which $P (x,y)\pi (x)=P (y,x)\pi (y)$. Notice that the eigenvalues of a reversible Markov chain are always real.</p><h5 id=definition-1>Definition</h5><p>Let
+$\lambda_*:=\max \{ |\lambda| |\lambda| &lt; 1,\lambda \text{ is an eigenvalue of } P\}, $
+then the <strong>absolute spectral gap</strong> is defined as $\gamma_*:=1-\lambda_*$ and for reversible Markov chains the <strong>spectral gap</strong> is defined to be $\gamma:=1-\lambda_2$ where $\lambda_2$ is the second largest eigenvalue of $P$. The <strong>relaxation time</strong> is defined as $t_\mathrm{rel} := \frac{1}{\gamma_*}$</p><p>In order to avoid aperiodicity we use \textit{lazy} chains where $P(x,x)>0$. The lazy version of a Markov chain is defined to be a chain with transition matrix $P_L=(P+I)/2$. It can also be verified that for lazy chains $\gamma_*=\gamma$.</p><h5 id=definition-2>Definition</h5><p>Consider $n$ Markov chains with state space $\mathcal{X}_j$ and transition matrix $P_j$ for $j=1, \ldots, n$. A product chain is defined on the state space $\mathcal{X}_1\times\cdots\times\mathcal{X}_n$ with the transition matrix
+$$
+P_{\mathrm{prod}} (\mathbf{x}, \mathbf{y}) = \sum_{j=1}^n w_j P_j (x_j, y_j)\prod_{i\neq j}1\left\{x_i=y_i\right\},
+$$
+where $w_j$ is a probability vector on $\left\{1, \ldots, n\right\}$, and $\mathbf{x}= (x_1, \ldots, x_n) \text{ and } \mathbf{y}= (y_1, \ldots, y_n)$.</p><p>The eigenvalues of this new chain are linear combination of the eigenvalues of the individual chains with $w_j$ being the weights \cite[Lemma 12.12]{levin2017}.</p><p>Consider a chain $X_t$ at which for each $x,y \in \mathcal{X}$ there exists a bijection such that $\phi_{xy} (x)=y$ and $P (u,v)=P (\phi_{xy} (u),\phi_{xy} (v))$. Such a chain is called <em>transitive</em>.</p><h5 id=proposition-8-lemma-1218>Proposition [[8], Lemma 12.18]</h5><p>Assume that a reversible Markov chain is transitive with the eigenvalues as $\lambda_1\geq\lambda_2\geq \cdots \geq \lambda_{|\mathcal{X}|}$. Then
+$$
+4|P^t (x, \cdot)-\pi|_{\mathrm{TV}}^2\leq \sum_{j=2}^{|\mathcal{X}|} \lambda_j^{2t}.
+$$</p><p>Hence the above proposition helps us to upper bound the mixing time of random walks in Cayley graphs if the eigenvalues can be explicitly calculated.</p><p>The question is how much does the mixing time depend on the $\varepsilon$. If we want to get within a one-tenth of the stationary distribution how long do we have to run and now if we want to get to within one over a thousand how much more do we need to run. we say that there is cutoff if $t_\mathrm{mix} (\varepsilon)$ hardly depends on $\varepsilon$.
+The cutoff phenomenon was introduced in literature during the 80s. Aldous [1], Diaconis and Shahshahani [5] initiated the systematic study of this phenomenon.</p><h5 id=definition-3>Definition</h5><p>Let us consider a family of Markov chains $\left\{X_t^{ (n)}\right\}_{n=1}^\infty$ with state spaces $\mathcal{X}$. Such a family of Markov chains is said to exhibit a <strong>cutoff</strong> if for every $0&lt;\varepsilon&lt;1$,
+$$
+\lim_{n\rightarrow \infty} \frac{t_\mathrm{mix}^{ (n)} (\varepsilon)}{t_\mathrm{mix}^{ (n)} (1-\varepsilon)} = 1.
+$$</p><p>A Markov chain is said to have a cutoff at $t_n$ with <em>cutoff window</em> of $\mathcal{O}(w_n)$ if $w_n=o (t_n)$ and,
+$$
+\begin{aligned}
+\lim_{\alpha \rightarrow -\infty}\liminf_{n \rightarrow \infty} d_n (t_n+\alpha w_n)=1,
+\lim_{\alpha \rightarrow \infty}\limsup_{n \rightarrow \infty} d_n (t_n+\alpha w_n)=0.
+\end{aligned}
+$$
+In general it is difficult to characterize this behaviour. Most of the properties are known for some typical examples. For instance, top to random shuffle [3], biased random walk on an interval [4], and so on. However, there exists chains which does not exhibit this phenomenon, for example random walk on a cycle. We will discuss the cutoff phenomenon in one such example, that is random walk on hypercube.</p><h3 id=cutoff-for-random-walk-on-hypercube>Cutoff for random walk on hypercube</h3><p>Consider a lazy random walk $ (X_t^n)$ in the $n$ dimensional hypercube graph with transition matrix $P$. The random walker moves in the hypercube by choosing a coordinate uniformly and flipping the bit of that coordinate with probability 1/2. We will analyze the bounds on $d_n (t)$ to determine if this family exhibit a cutoff or not (check [8] for detailed proofs).</p><h5 id=theorem>Theorem</h5><p>For a lazy random walk $(X_t^n)$ on the $n$ dimensional hypercube graph with transition matrix $P$, we have
+$$
+d_n (t) \leq \frac{1}{2}\sqrt{\left(1+e^{-\frac{2t}{n}}\right)^n -1}.
+$$
+Therefore $t_\mathrm{mix}^{ (n)} (\varepsilon)\leq \frac{1}{2}n \ln n - \frac{n}{2} \ln \ln \left(4\varepsilon^2+1\right). $</p><h5 id=proof>Proof</h5><p>Clearly the Markov chain is product chain of one dimensional lazy random walks in hypercube with the vertex set as ${0, 1}$, $w_i=\frac{1}{n}$ as the vector of weights, and $P_i=\begin{bmatrix}
+1/2 & 1/2 \\
+1/2 & 1/2
+\end{bmatrix}$ being the transition matrices.
+The eigenvalues of $P_i$ are 0 and 1. Thus the set of eigenvalues of $P$ is
+$$\left\{\sum_{i=0}^n \lambda_i/n| \text{ where } \lambda_i=\left\{0,1\right\}\right\}.$$
+This shows that the eigenvalues are $k/n$ with multiplicity $\binom{n}{k}$ for $k=0,\ldots,n$.
+Note that, the Markov chain is transitive as it is a random walk on a group. Thus by Proposition,
+$$
+4\max_{x \in \mathcal{X}} |P^t (x, \cdot)-\pi|_{\mathrm{TV}}^2 \leq \left(1+e^{-\frac{2t}{n}}\right)^n -1.
+$$
+The upper bound for the mixing time follows from this.</p><h5 id=theorem-1>Theorem</h5><p>For $X_t^n$ as above we have,
+$$
+d_n (t)\geq 1-\frac{8}{n}e^\frac{2t}{n-1}.
+$$
+Therefore $t_\mathrm{mix}^{ (n)} (\varepsilon)\geq \frac{1}{2} (n-1)\ln n + \frac{1}{2} (n-1)\ln \frac{1-\varepsilon}{8}. $</p><h5 id=proof-1>Proof</h5><p>Assume that the random walk starts at $\mathbf{1}= (1, \cdots, 1)$. Define a function $\mathbf{W} (x):=|x|_1$, which is the Hamming weight of a vector. Let $R_t$ denote the number of coordinates yet not chosen. Note that $R_t$ is same as the number of uncollected coupons in the coupon collecting problem. If the chain initiates with $\pi$ then $W\sim \mathrm{Binomial} (n, \frac{1}{2})$.
+On the other hand, if it had started from $\mathbf{1}$, then $\mathbf{W} (X_t)|R_t\sim R_t + \mathrm{Binomial} (n-R_t, \frac{1}{2})$, which provides $\operatorname{E}\left[\mathbf{W} (X_t)\right]$ and $\operatorname{Var}\left[\mathbf{W} (X_t)\right]$.
+Hence $\sigma_{*}^2=\max \left\{ \operatorname{Var}[\mathbf{W} (X_t)], \operatorname{Var}_\pi[W]\right\}=\frac{n}{4}$ and
+$$
+|\operatorname{E}[\mathbf{W} (X_t)]-E_\pi (W)| \leq \sqrt{n}\sigma_*e^{-\frac{t}{n-1}}.
+$$
+Hence by Proposition
+$$
+d_n (t)\geq |P^t (\mathbf{1}, \cdot)-\pi|_{\mathrm{TV}} \geq 1-\frac{8}{n}e^\frac{2t}{n-1},
+$$
+and the theorem follows directly from this.</p><h5 id=theorem-2>Theorem</h5><p>A lazy random walk on the $n$ dimensional hypercube has a cutoff with a window of size $\mathcal{O} (n)$.</p><h5 id=proof-2>Proof</h5><p>From Theorems proving upper and lower bounds, we have $\frac{t_\mathrm{mix}^{ (n)} (\varepsilon)}{t_\mathrm{mix}^{ (n)} (1-\varepsilon)}=o (1)$.
+Hence the family has a cutoff.</p><p>It is evident that $\frac{n}{2}\ln n +c_2n\leq t_\mathrm{mix}^{ (n)}\leq \frac{n}{2}\ln n -c_1n$ for some $c_1,c_2>0$ which clearly shows $n=o (t_\mathrm{mix}^{ (n)})$. Hence
+$$d_n (t_\mathrm{mix}^{ (n)}+\alpha n) \leq \frac{1}{2}\sqrt{e^{e^{-2 (\alpha+c_2)}}-1}, d_n (t_\mathrm{mix}^{ (n)}+\alpha n) \geq 1-8e^{-\frac{1}{n-1}\ln n + \frac{2n (\alpha-c_1)}{n-1}}.$$
+The above two equations verify the claim.</p><p>The simulation results in the \autoref{fig:hyp_cutoff} shows how the cutoff phenomenon occurs in the random walk on hypercube. The drop of the total variation distance becomes sharper as $n$ increases.
+\begin{figure}
+\centering
+\captionsetup{justification=raggedright}
+\includegraphics[width=\textwidth]{hyp_plot.pdf}
+\caption{The cutoff phenomenon in the random walk on hypercube for $n=10$ and $n=15$.}</p><p>\end{figure}</p><h3 id=necessary-condition-for-cutoff>Necessary condition for cutoff</h3><p>In 2004, Peres[9] provided a necessary condition for a cutoff to occur. He named the condition \textit{product condition}.</p><h5 id=theorem-3>Theorem</h5><p>Consider a family of reversible, irreducible and aperiodic Markov chains, $ (X_t^{ (n)})$ with cutoff then $\lim_{n\rightarrow \infty}\frac{t_\mathrm{mix}^{ (n)}}{t_\mathrm{rel}^{ (n)}-1}\rightarrow \infty$, i.e, $t_\mathrm{rel}^{ (n)}=o (t_\mathrm{mix}^{ (n)})$.</p><h5 id=proof-3>Proof</h5><p>Assume that $ (t_\mathrm{rel}^{ (n)}-1)/t_\mathrm{mix}^{ (n)} \nrightarrow 0$, then $\exists\delta$ and an infinite set $M\subset \mathbb{N}$ such that, $ (t_\mathrm{rel}^{ (n)}-1)/t_\mathrm{mix}^{ (n)} \geq \delta \forall n \in M$. By the spectral lower bound on mixing time ([8], Theorem 12.5)
+$$
+\frac{t_\mathrm{mix}^{ (n)} (\varepsilon)}{t_\mathrm{mix}^{ (n)} (1-\varepsilon)}\geq\frac{t_\mathrm{mix}^{ (n)} (\varepsilon)}{t_\mathrm{mix}^{ (n)}}\geq \frac{t_{\mathrm{rel}}-1}{t_\mathrm{mix}^{ (n)}}\ln \left(\frac{1}{2\varepsilon}\right) \geq \delta \ln \left(\frac{1}{2\varepsilon}\right).
+$$
+As $\varepsilon \rightarrow 0$ $\ln (1/2\varepsilon) \rightarrow \infty$, this contradicts the fact that the Markov chain has a cutoff.</p><h3 id=sufficient-condition-for-cutoff>Sufficient condition for cutoff</h3><p>Peres conjectured that in many classes of chains, \textit{Cutoff occurs iff $t_{\mathrm{rel}}=o (t_\mathrm{mix}^{ (n)})$}. However, this is not the case in general. There are two examples by Aldous [2] and Pak ([8], Example 18.7).</p><h4 id=aldouss-example>Aldous&rsquo;s Example</h4><p>Consider the following random walk on a graph (as shown in \autoref{fig:no-cutoff}). We will provide a heuristic argument of why the Markov chain fails to have a cutoff. As it can be seen from the graph that most of the mass of the stationary distribution will be concentrated near $y$. This shows that the time taken from $x$ to $y$ is a good estimate of the mixing time. It takes about $12n$ to reach the fork from $x$. The walker then reaches $y$ through the bottom path first with a probability of about 1/2. The walker reaches $y$ in about $12n$ steps moves through the top it and about $6n$ steps following the bottom path. Moreover, the time will be within $\sqrt{n}$ of the expected steps with high probability due to central limit theorem. This shows that the $d_n (t)$ will decrease by about 1/2 in a window of order $\sqrt{n}$ at $18n$ and again by 1/2 of same order at $24n$. This shows that such a chain does not have cutoff.</p><p>We also conduct a simulation to see that the random walk on such a graph does not have a cutoff. \autoref{fig:no-cutoff-simulation}
+shows that the above problem fails to exihibit cutoff.</p><h4 id=birth-and-death-chains>Birth and Death chains</h4><p>The paper [6] proves that for Birth and Death chains the product condition is sufficient for cutoff. Let $X_t$ be a lazy irreducible birth and death chain. All the following theorems are proved for this family of chains.</p><h5 id=theorem-4>Theorem</h5><p>$\forall 0&lt;\varepsilon&lt;\frac{1}{2}$ $\exists$ a constant $c_\varepsilon$ such that,
+$$
+t_\mathrm{mix} (\varepsilon)-t_\mathrm{mix} (1-\varepsilon)\leq c_\varepsilon \sqrt{t_\mathrm{mix} t_\mathrm{rel}}.
+$$</p><p>This shows that a family of birth and death chains have cutoff within a window of at most $\sqrt{t_\mathrm{mix}^{ (n)} t_{\mathrm{rel}}}$ iff the product condition holds. The bound is indeed tight, the paper [6] discusses an example where it achieves the bound. As well as there exist examples where the bound is strictly less than $\sqrt{t_\mathrm{mix} t_\mathrm{rel}}$.</p><p>It is enough to prove the Theorem for $t_\mathrm{rel}$ small enough compared to $t_\mathrm{mix}$.</p><h5 id=theorem-5>Theorem</h5><p>If $\exists 0&lt;\varepsilon&lt;\frac{1}{16}$ with $t_\mathrm{rel} &lt; \varepsilon^5 t_\mathrm{mix}$, then,
+$$
+t_\mathrm{mix} (4\varepsilon)-t_\mathrm{mix} (1-2\varepsilon)\leq \frac{6}{\varepsilon} \sqrt{t_\mathrm{mix} t_\mathrm{rel}}.
+$$</p><p>The implication can be proved by taking cases of whether $t_\mathrm{rel}/t_\mathrm{mix}$ is large or small and noting the fact that $t_\mathrm{mix} (\varepsilon)-t_\mathrm{mix} (1-\varepsilon)$ decreases with increase in $\varepsilon$.</p><h5 id=definition-4>Definition</h5><p>The $\varepsilon$-quantile of the distribution $\pi$ for $0&lt;\varepsilon&lt;1$ is defined as,
+$$
+Q (\varepsilon):=\min \left\{k: \sum_{j=0}^{k} \pi (j) \geq \varepsilon\right\}.
+$$</p><p>We define hitting time of a node $y$ to be the first time when the chain visits the node $y$. Let us denote this random time by $\tau_y$.</p><h5 id=lemma>Lemma</h5><p>For any $\varepsilon \in (0, 1)$ and $\forall k\in [n]$ with $t>0$ we have
+$$
+|P^t (0, \cdot)-\pi| \leq \mathbf{P}_0 (\tau_{Q (1-\varepsilon)}>t)+\varepsilon, \
+$$
+$$
+|P^t (k, \cdot)-\pi| \leq \mathbf{P}_k (\max\left\{\tau_{Q (\varepsilon)}, \tau_{Q (1-\varepsilon)}\right\}>t)+2\varepsilon.
+$$</p><p>This can be proved by introducing a \textit{no-crossing} coupling.
+Assume without any loss of generality that $\operatorname{E}_0\tau_{Q (1-\varepsilon)}\geq\operatorname{E}_n\tau_{Q (\varepsilon)}$. With this assumption and using Markov&rsquo;s inequality we have,
+$$
+t_\mathrm{mix}\leq 16 \operatorname{E}_0\tau_{Q (1-\varepsilon)}.
+$$</p><h5 id=lemma-1>Lemma</h5><p>Assume the state space to be $\mathcal{X}=\left\{0, 1, \ldots ,d\right\}$ with $d$ being the absorbing state. Then $ \operatorname{Var}_0\tau_d\leq t_\mathrm{rel} \operatorname{E}_0\tau_d$.</p><h5 id=proof-4>Proof</h5><p>The proof relies on a special property of the birth and death chains mentioned in [7] which says that the hitting time can be expressed as the sum of independent geometric random variables with parameters $1-\lambda_i$ where $\lambda_i \neq 1$ are eigenvalues of the transition matrix $P$. Hence
+$\operatorname{Var}_0\tau_d \leq t_\mathrm{rel} \operatorname{E}_0\tau_d$.\</p><p>This subtle argument breaks down when someone moves out of the realm of birth and death chains.
+Now, if $l=Q (1-\varepsilon)$ is changed to a absorbing state, then $ \operatorname{Var}_0\tau_l\leq \frac{\operatorname{E}_0\tau_l}{\gamma_l}$ where $\gamma_l$ is the spectral gap of the truncated chain. It is easy to show that $\gamma_l \geq \varepsilon \gamma$ by using the Rayleigh Ritz representation. This in turn shows that $\forall 0&lt;\varepsilon&lt;1$
+$$
+\operatorname{Var}_0\tau_{Q (1-\varepsilon)} \leq \frac{t_\mathrm{rel} \operatorname{E}_0\tau_{Q (1-\varepsilon)}}\varepsilon.
+$$</p><h5 id=lemma-2>Lemma</h5><p>If $\exists 0&lt; \varepsilon &lt; \frac{1}{16}$ such that $t_\mathrm{rel}&lt;\varepsilon^4 \operatorname{E}_0 \tau_{Q (1-\varepsilon)}$. Then
+$$
+\operatorname{E}_{Q (\varepsilon)}\tau_{Q (1-\varepsilon)}=\frac{3}{2\varepsilon} \sqrt{t_\mathrm{rel}\operatorname{E}_0\tau_{Q (\frac{1}{2})}}.
+$$</p><h5 id=proof-5>Proof</h5><p>Let $\nu$ be a random variable with support on $[Q (\varepsilon)]$ defined as,
+$\nu (k)=\frac{\pi (k)}{\pi ([Q (\varepsilon)])}1\left\{[Q (\varepsilon)]\right\}$.
+Similarly, define $w$ to be the vector such that $w (k)=\frac{1}{\pi ([Q (\varepsilon)])}1\left\{[Q (\varepsilon)]\right\}$ for all $k$. Hence
+$$
+|P^t (\nu, \cdot)-\pi|_{\mathrm{TV}} \leq \frac{\lambda_2^t}{2\sqrt{\varepsilon}}.
+$$
+Now, let us consider a time after which the total variation distance is less than $\varepsilon/2$. We choose this time to be $t_\varepsilon=\lceil \frac{3}{2}\ln (\frac{1}{\varepsilon})t_\mathrm{rel} \rceil$.
+$$
+\mathbf{P}_\nu (\tau_{Q (1-\varepsilon)}\leq t_\varepsilon) \geq \frac{\varepsilon}{2}.
+$$
+Use Chebychev&rsquo;s inequality to upper bound this probability, followed by the use of fact that $\operatorname{Var}_{Q (\varepsilon)}\tau_Q (\varepsilon) \leq \operatorname{Var}_0\tau_Q (\varepsilon)$.
+This equation along with lower bound on the hitting time and the variance bound shows that,
+$$
+\operatorname{E}_{Q (\varepsilon)} \tau_{Q (1-\varepsilon)} \leq 2 \ln\left(\frac{1}{\varepsilon}\right)t_\mathrm{rel} + \frac{1}{\varepsilon}\sqrt{2t_\mathrm{rel} \operatorname{E}_0\tau_{Q (1-\varepsilon)}}.
+$$
+We use the fact that $t_\mathrm{rel} &lt; \varepsilon^4 \operatorname{E}_0\tau_{Q (1-\varepsilon)}$ to complete the rest of the proof.</p><h5 id=proof-of-the-theorem>Proof of the theorem</h5><p>Define,
+$$
+t^+ (\Delta) :=\operatorname{E}_0\tau_{Q\left(\frac{1}{2}\right)}+\Delta \sqrt{t_\mathrm{rel}\operatorname{E}_0\tau_{Q\left(\frac{1}{2}\right)}}, t^- (\Delta) :=\operatorname{E}_0\tau_{Q\left(\frac{1}{2}\right)}-\Delta \sqrt{t_\mathrm{rel}\operatorname{E}_0\tau_{Q\left(\frac{1}{2}\right)}}.
+$$
+Now, we will use the relation between $t_\mathrm{rel}$ and $t_\mathrm{mix}$ already derived,
+$$
+t_\mathrm{rel}&lt;\varepsilon^5 t_\mathrm{mix} &lt; 16\varepsilon^5 \operatorname{E}_0\tau_{Q (1-\varepsilon)}&lt; \varepsilon^4 \operatorname{E}_0\tau_{Q (1-\varepsilon)}.
+$$
+With similar idea as lower bounding the hitting time, we upper bound the $|P^{t^-} (0, \cdot)-\pi|_{\mathrm{TV}}$ with a hitting time probability.
+Now, in order to bound the term $\mathbf{P}_0 (\tau_{Q (\varepsilon)}\leq t^-)$, we use Chebychev&rsquo;s inequality. By the Lemma and the bound on variance, we can bound $\operatorname{E}_0\tau_{Q (1-\varepsilon)}$ and $ \operatorname{Var}_0\tau_{Q (1-\varepsilon)}$. With $\Delta=\frac{2}{\varepsilon}$, we can get a lower bound on $t_\mathrm{mix} (1-2\varepsilon)\geq t^- (\frac{2}{\varepsilon})$ as desired for the statement.</p><p>For the upper bound we use the no crossing coupling to get,
+$$
+|P^{t^+} (k, \cdot)-\pi|_{\mathrm{TV}}\leq 2\varepsilon + \mathbf{P}_0 (\tau_{Q (1-\varepsilon)}>t^+)+\mathbf{P}_n (\tau_{Q (\varepsilon)}>t^+).
+$$
+Again we can use Chebychev&rsquo;s inequality to get the bound. First of all we will give bounds for the respective expectations and variances, i.e.,
+$$
+\begin{aligned}
+\operatorname{E}_{n} \tau_{Q (\varepsilon)} & \leq \operatorname{E}_0 \tau_{Q (1-\varepsilon)} \leq \operatorname{E}_0 \tau_{Q\left(\frac{1}{2}\right)}+\frac{3}{2 \varepsilon} \sqrt{t_\mathrm{rel}} \operatorname{E}_0 \tau_{Q\left(\frac{1}{2}\right)}, \
+\operatorname{Var}_0 \tau_{Q (\varepsilon)} & \leq (1 / \varepsilon) t_\mathrm{rel} \operatorname{E}_0 \tau_{Q (1-\varepsilon)} \leq \frac{t_\mathrm{rel}}{\varepsilon\left(1-\frac{3 \varepsilon}{2}\right)} \operatorname{E}_0 \tau_{Q\left(\frac{1}{2}\right)}.
+\end{aligned}
+$$
+Following the same idea as the variance bound we conclude that,
+$$
+\operatorname{Var}_n \tau_{Q (\varepsilon)} \leq (1 / \varepsilon) t_\mathrm{rel} \operatorname{E}_n \tau_{Q (1-\varepsilon)} \leq \frac{2}{\varepsilon} \operatorname{E}_0 \tau_{Q\left(\frac{1}{2}\right)}.
+$$
+Similarly, with appropriate choice of $\Delta$, we can achieve a bound, i.e., $t_\mathrm{mix} (4 \varepsilon) \leq t^{+}\left(\frac{3}{\varepsilon}\right)$. Rewriting this with respect to $t_\mathrm{mix}$ gives the final statement.</p><h3 id=acknowledgments>Acknowledgments</h3><p>I would like to acknowledge the immense help and support I got from Dr. Anirban Basak and Dr. Riddhipratim Basu. I am grateful to ICTS-S. N. Bhatt Program 2022 for providing me this opportunity to work with them. Last but not the least, I am thankful to all others who supported me through out my mathematical journey.</p><h3 id=references>References</h3><p>[1] D. Aldous. Random walks on finite groups and rapidly mixing markov chains. In S´ eminaire de Probabilit´ es XVII
+1981/82, pages 243–297. Springer, 1983.</p><p>[2] D. Aldous. American institute of mathematics (aim) research workshop “sharp thresholds for mixing times” (palo
+alto), 2004.</p><p>[3] P. Diaconis. Applications of non-commutative fourier analysis to probability problems. In ´ Ecole d’´ Et´ e de Proba
+bilit´ es de Saint-Flour XV–XVII, 1985–87, pages 51–100. Springer, 1988.</p><p>[4] P. Diaconis and J. A. Fill. Strong stationary times via a new form of duality. The Annals of Probability, 18(4):1483
+1522, 1990.</p><p>[5] P. Diaconis and M. Shahshahani. Generating a random permutation with random transpositions. Zeitschrift f¨ur
+Wahrscheinlichkeitstheorie und verwandte Gebiete, 57(2):159–179, 1981.</p><p>[6] J. Ding, E. Lubetzky, and Y. Peres. Total variation cutoff in birth-and-death chains. Probability Theory and
+Related Fields, 146(1-2), 2008.</p><p>[7] S. Karlin and J. McGregor. Coincidence properties of birth and death processes. Pacific Journal of Mathematics,
+9(4):1109–1140, 1959.</p><p>[8] D. A. Levin and Y. Peres. Markov chains and mixing times, volume 107. American Mathematical Soc., 2017.</p><p>[9] Y. Peres. American institute of mathematics (aim) research workshop “sharp thresholds for mixing times” (palo
+alto), 2004</p></div><div></div><ul class=tags></ul></div></section></div><script src=https://code.jquery.com/jquery-3.6.4.slim.min.js integrity="sha256-a2yjHM4jnF9f54xUQakjZGaqYs/V1CYvWpoqZzC2/Bw=" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx crossorigin=anonymous></script>
+<script src=https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js integrity=sha384-EYn4rWu1DHvYD0sSSSbMEtXQmMl58CFJd897806+RT1jJVYbhuZlZMN6yG9nCyFa crossorigin=anonymous></script>
+<script src=https://unpkg.com/smoothscroll-anchor-polyfill@1.3.2/dist/index.min.js integrity=sha384-EY9NBEHCFbZANmPcTm7CgG8OhsFILy0VBLG85pF6OIpP42NVbZVNsFOc23PYTCkB crossorigin=anonymous></script>
+<script async src=/js/resume.js></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=XX-123446-01"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","XX-123446-01")</script></body></html>
