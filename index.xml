@@ -1,6 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Sanchayan Bhowal</title><link>https://sanchayan-bhowal.github.io/</link><description>Recent content in Home on Sanchayan Bhowal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://sanchayan-bhowal.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Cutoff phenomenon in Markov chains</title><link>https://sanchayan-bhowal.github.io/miscellaneous/cutoff/</link><pubDate>Sat, 24 Feb 2024 14:09:10 +0000</pubDate><guid>https://sanchayan-bhowal.github.io/miscellaneous/cutoff/</guid><description>This is an article describing cutoff phenomenon. This was a part of the SN Bhatt Fellowship Program 2022.</description></item><item><title>Gallery</title><link>https://sanchayan-bhowal.github.io/miscellaneous/gallery/</link><pubDate>Sat, 27 Jan 2024 14:09:10 +0000</pubDate><guid>https://sanchayan-bhowal.github.io/miscellaneous/gallery/</guid><description>Browse through my collection of pictures, each image narrating a unique chapter of my journey.</description></item><item><title>Exploring the potential of collective learning to reduce foraging time</title><link>https://sanchayan-bhowal.github.io/research/research2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sanchayan-bhowal.github.io/research/research2/</guid><description/></item><item><title>Limit Theorems and Phase Transitions in the Tensor Curie-Weiss Potts Model</title><link>https://sanchayan-bhowal.github.io/research/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sanchayan-bhowal.github.io/research/research/</guid><description/></item><item><title>Search Results</title><link>https://sanchayan-bhowal.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sanchayan-bhowal.github.io/search/</guid><description>This file exists solely to respond to /search URL with the related search layout template.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Sanchayan Bhowal</title>
+    <link>https://sanchayan-bhowal.github.io/</link>
+    <description>Recent content in Home on Sanchayan Bhowal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://sanchayan-bhowal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Riemann Surfaces</title>
+      <link>https://sanchayan-bhowal.github.io/miscellaneous/reimann/</link>
+      <pubDate>Tue, 19 Mar 2024 14:09:10 +0000</pubDate>
+      
+      <guid>https://sanchayan-bhowal.github.io/miscellaneous/reimann/</guid>
+      <description>This is a page for seminar series on Riemann Surfaces</description>
+    </item>
+    
+    <item>
+      <title>Cutoff phenomenon in Markov chains</title>
+      <link>https://sanchayan-bhowal.github.io/miscellaneous/cutoff/</link>
+      <pubDate>Sat, 24 Feb 2024 14:09:10 +0000</pubDate>
+      
+      <guid>https://sanchayan-bhowal.github.io/miscellaneous/cutoff/</guid>
+      <description>This is an article describing cutoff phenomenon. This was a part of the SN Bhatt Fellowship Program 2022.</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://sanchayan-bhowal.github.io/miscellaneous/gallery/</link>
+      <pubDate>Sat, 27 Jan 2024 14:09:10 +0000</pubDate>
+      
+      <guid>https://sanchayan-bhowal.github.io/miscellaneous/gallery/</guid>
+      <description>Browse through my collection of pictures, each image narrating a unique chapter of my journey.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the potential of collective learning to reduce foraging time</title>
+      <link>https://sanchayan-bhowal.github.io/research/research2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanchayan-bhowal.github.io/research/research2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limit Theorems and Phase Transitions in the Tensor Curie-Weiss Potts Model</title>
+      <link>https://sanchayan-bhowal.github.io/research/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanchayan-bhowal.github.io/research/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://sanchayan-bhowal.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanchayan-bhowal.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description></item></channel></rss>
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
