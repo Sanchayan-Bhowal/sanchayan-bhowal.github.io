@@ -6,7 +6,16 @@
     <description>Recent content in Miscellaneous on Sanchayan Bhowal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Feb 2024 14:09:10 +0000</lastBuildDate><atom:link href="https://sanchayan-bhowal.github.io/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Mar 2024 14:09:10 +0000</lastBuildDate><atom:link href="https://sanchayan-bhowal.github.io/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Riemann Surfaces</title>
+      <link>https://sanchayan-bhowal.github.io/miscellaneous/riemann/</link>
+      <pubDate>Sun, 31 Mar 2024 14:09:10 +0000</pubDate>
+      
+      <guid>https://sanchayan-bhowal.github.io/miscellaneous/riemann/</guid>
+      <description>This is a page for seminar series on Riemann Surfaces</description>
+    </item>
+    
     <item>
       <title>Cutoff phenomenon in Markov chains</title>
       <link>https://sanchayan-bhowal.github.io/miscellaneous/cutoff/</link>
@@ -23,15 +32,6 @@
       
       <guid>https://sanchayan-bhowal.github.io/miscellaneous/gallery/</guid>
       <description>Browse through my collection of pictures, each image narrating a unique chapter of my journey.</description>
-    </item>
-    
-    <item>
-      <title>Riemann Surfaces</title>
-      <link>https://sanchayan-bhowal.github.io/miscellaneous/riemann/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sanchayan-bhowal.github.io/miscellaneous/riemann/</guid>
-      <description>This is a page for seminar series on Riemann Surfaces</description>
     </item>
     
   </channel>
