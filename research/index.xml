@@ -9,19 +9,28 @@
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://sanchayan-bhowal.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring the potential of collective learning to reduce foraging time</title>
-      <link>https://sanchayan-bhowal.github.io/research/research2/</link>
+      <link>https://sanchayan-bhowal.github.io/research/forager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sanchayan-bhowal.github.io/research/research2/</guid>
+      <guid>https://sanchayan-bhowal.github.io/research/forager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limit Theorems and Phase Transitions in the Tensor Curie-Weiss Potts Model</title>
-      <link>https://sanchayan-bhowal.github.io/research/research/</link>
+      <link>https://sanchayan-bhowal.github.io/research/tensorcw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sanchayan-bhowal.github.io/research/research/</guid>
+      <guid>https://sanchayan-bhowal.github.io/research/tensorcw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rates of Convergence of the Magnetization in the Tensor Curie-Weiss Potts Model</title>
+      <link>https://sanchayan-bhowal.github.io/research/cwberry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanchayan-bhowal.github.io/research/cwberry/</guid>
       <description></description>
     </item>
     
