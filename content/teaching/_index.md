@@ -3,14 +3,13 @@ title: "Teaching"
 showAuthor: false
 showDate: false
 showReadingTime: false
-# layout: "simple"
 layout: "simple"
 ---
 
 
 ## Reading Seminars
 
-1. <kbd>Jan - Apr 2025</kbd> : Entropy and Markov Chains
+1. <kbd>Jan - Apr 2025</kbd> : [Entropy and Markov Chains](https://sites.google.com/view/entropymc/home?authuser=0)
 
     As part of this seminar, we recalled the basics of mixing times from Salez's notes. Currently, we are trying to understand the work of Chen and Eldan on Localization schemes. Finally, we want to read the paper by Caputo and Salez on Entropy factorization.
 
