@@ -18,7 +18,7 @@ image = "img/dp.jpg"
 # headline = "I'm only human"
 # bio = "A little bit about you"
 links = [
-  { email = 'mailto:sbhowal@staford.edu' },
+  { email = 'mailto:sbhowal@stanford.edu' },
   { google-scholar = "https://scholar.google.com/citations?user=ySuQy4AAAAAJ" },
   { mastodon = "https://mastodon.instance/@sanchayanB" },
   { github = "https://github.com/Sanchayan-Bhowal" },
