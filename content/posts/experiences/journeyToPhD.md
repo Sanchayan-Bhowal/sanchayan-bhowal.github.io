@@ -1,7 +1,7 @@
 ---
 title: "Random Walk to Stanford"
-date: 2025-02-23
-draft: true
+date: 2025-04-01
+draft: false
 tags: []
 categories: []
 ---
@@ -26,7 +26,7 @@ Around the time I started working with Prof. Somabha, I was also selected for th
 
 ### The Pivotal Summer: 2024
 
-After returning from BDSI, I started my MMath, focusing on my courses and striving to do well. Summer 2024 was the most crucial period concerning my PhD applications. I completed a project with Prof. Somabha, and during this time, I had the opportunity to meet Prof. Bhaswar. The three of us began collaborating on a project, and both professors agreed to supervise my master's research. With my second year set to begin, I also started preparing for PhD applications, drafting my Statement of Purpose (SOP). For future applicants, I would emphasize that the summer before applying is the most critical time—you should have all required documents prepared in advance, as managing applications during the semester can be overwhelming.
+After returning from BDSI, I started my MMath, focusing on my courses and striving to do well. Summer 2024 was the most crucial period concerning my PhD applications. I completed a project with Prof. Somabha, and during this time, I had the opportunity to meet Prof. Bhaswar. The three of us began collaborating on a project, and both professors agreed to supervise my master's project. With my second year set to begin, I also started preparing for PhD applications, drafting my Statement of Purpose (SOP). For future applicants, I would emphasize that the summer before applying is the most critical time—you should have all required documents prepared in advance, as managing applications during the semester can be overwhelming.
 
 ### Conferences: The Underrated Experience
 
@@ -42,7 +42,7 @@ The last conference was the best experience. Siva had organized a research schoo
 
 After returning from my last conference at CMI, it was January 2025—the month when PhD decisions were expected. In mid-January, I received my first offer from Yale. After facing rejection from all programs during my BMath, this felt like a huge breakthrough.
 
-Then came February 7, 2025—one of the best days of my life. I got into Stanford, my top choice. For a few seconds, I couldn’t believe it. It felt like all the time I had spent at ISI had finally paid off. By the end of the cycle, I had offers from Yale, Stanford, Purdue, Harvard, and the University of Pennsylvania. Each was a fantastic opportunity, but I had to make a decision. In the end, I chose Stanford.
+Then came February 7, 2025—one of the best days of my life. I got into Stanford, my top choice. For a few seconds, I couldn’t believe it. It felt like all the time I had spent at ISI had finally paid off. By the end of the cycle, I had offers from Yale, Stanford, Purdue, Harvard, UPenn and UNC Chapel Hill. Each was a fantastic opportunity, but I had to make a decision. In the end, I chose Stanford.
 
 ### Looking Ahead
 
