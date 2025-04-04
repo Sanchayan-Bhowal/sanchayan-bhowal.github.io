@@ -1,6 +1,6 @@
 ---
 description: Personal site of Sanchayan Bhowal
-# title: 'Sanchayan Bhowal'
+title: 'Sanchayan Bhowal'
 ---
 
 <!-- {{< lead >}}
