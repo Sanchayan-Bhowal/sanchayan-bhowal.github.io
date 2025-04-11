@@ -23,7 +23,7 @@ My research interests lie broadly in probability theory and high-dimensional sta
 ## Publications
 
 1. Bhowal, S., & Mukherjee, S. (2024). Rates of Convergence of the Magnetization in the Tensor Curie–Weiss Potts Model. Journal of Statistical Physics, 192(1), 2. [{{< icon "link" >}}](https://doi.org/10.1007/s10955-024-03382-w)
-2. Bhowal, S., & Mukherjee, S. (2023). Limit theorems and phase transitions in the tensor Curie-Weiss Potts model. Accepted at Information and Inference: A Journal of the IMA. [{{< icon "link" >}}](https://arxiv.org/abs/2307.01052)
+2. Bhowal, S., & Mukherjee, S. (2023). Limit theorems and phase transitions in the tensor Curie-Weiss Potts model. To appear in Information and Inference: A Journal of the IMA. [{{< icon "link" >}}](https://arxiv.org/abs/2307.01052)
 3. Bhowal, S., Samanta, R. J., Ray, A., Bhattacharyya, S., & Hens, C. (2023). Exploring the potential of collective learning to reduce foraging time. Chaos, Solitons & Fractals, 168, 113123. [{{< icon "link" >}}](https://doi.org/10.1016/j.chaos.2023.113123)
 
 ------

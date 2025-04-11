@@ -11,7 +11,7 @@ layout: "simple"
 
 1. <kbd>Jan - Apr 2025</kbd> : [Entropy and Markov Chains](https://sites.google.com/view/entropymc/home?authuser=0)
 
-    As part of this seminar, we recalled the basics of mixing times from Salez's notes. We tried to understand the work of Chen and Eldan on Localization schemes. Currently, we are reading the paper by Caputo and Salez on Entropy factorization.
+    As part of this seminar, we recalled the basics of mixing times from Salez's notes. We tried to understand the work of Chen and Eldan on Localization schemes. Finally, we concluded by reading the paper by Caputo and Salez on Entropy factorization.
 
 2. <kbd>Mar - Apr 2024</kbd> : Riemann Surfaces
 
