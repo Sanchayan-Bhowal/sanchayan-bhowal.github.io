@@ -33,16 +33,16 @@ My research interests lie broadly in probability theory and high-dimensional sta
 - Threshold Density <br>
   As part of the course Games, Graphs and Algebra [Notes](/docs/thresholdDensity.pdf)
 - What is Cutoff?<br>
-  Part of What is? Seminar [Video](https://youtu.be/cskG0fGg5wU?si=ZUOw_j7UcOiMSVrr)
+  Part of What is? Seminar [Video](https://youtu.be/cskG0fGg5wU)
 - Limit Theorems of estimators in the Tensor Curie Weiss Potts Model <br>
   Bangalore Probability Seminar [Slides](/docs/BPS26_02_24.pdf)
 - Estimation in Curie-Weiss Tensor Potts model <br>
-  Math Club, ISI Bangalore [Video](https://youtu.be/XxchJRrzAQ0?si=mECD6CqDvIQgdkjf) 
+  Math Club, ISI Bangalore [Video](https://youtu.be/XxchJRrzAQ0)
 - A Tour of Markov Chains <br>
-  Math Club, ISI Bangalore [Video](https://youtu.be/Add6dpfNkA8?si=b1WN_QKdVejgR1-D)
+  Math Club, ISI Bangalore [Video](https://youtu.be/Add6dpfNkA8)
 - Alice in 'Probland' <br>
-  LIMIT 2021 [Video](https://youtu.be/4zwPtAFe5B0?si=Sg7LCRj1bgkIXPbU)
+  LIMIT 2021 [Video](https://youtu.be/4zwPtAFe5B0)
 - An Unconventional Approach to Groups <br>
-  ISI Student Seminar [Video](https://youtu.be/XfZJ2sKG6WA?si=VlG7KH5js-RpI4Ii)
+  ISI Student Seminar [Video](https://youtu.be/XfZJ2sKG6WA)
 
 ------

@@ -20,7 +20,7 @@ image = "img/dp.jpg"
 links = [
   { email = 'mailto:sbhowal@stanford.edu' },
   { google-scholar = "https://scholar.google.com/citations?user=ySuQy4AAAAAJ" },
-  { mastodon = "https://mastodon.instance/@sanchayanB" },
+  { mastodon = "https://mathstodon.xyz/@sanchayanB" },
   { github = "https://github.com/Sanchayan-Bhowal" },
 ]
 #   { link = "https://link-to-some-website.com/" },
