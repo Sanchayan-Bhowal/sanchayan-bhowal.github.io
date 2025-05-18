@@ -19,6 +19,9 @@ More about me.
 <kbd>2023 - 2025</kbd> &ensp;&ensp;
 **MMath**, *Indian Statistical Institute Bangalore*, India.
 <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+**Project Advisor:** *[Bhaswar Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/) and [Somabha Mukherjee](https://www.somabha.com/)* 
+<br>
 <kbd>2023 - 2025</kbd> &ensp;&ensp;
 **BMath(Hons.)**, *Indian Statistical Institute Bangalore*, India.
 
@@ -38,6 +41,10 @@ More about me.
 - JBNSTS Scholarship (2018-2020)
 
 ### We might have met at...
+
+- Geometry, Probability, and Algorithms <kbd>May, 12-16 2025</kbd>
+
+- High Dimensional Expanders and Error Correcting Codes <kbd>April 28 - May 9 2025</kbd>
 
 - Mathematical Foundations of Network Models and their Applications <kbd>December, 9-21 2024</kbd>
 
