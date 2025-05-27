@@ -1,7 +1,7 @@
 ---
 title: "ফেলুদার ধাাঁধা(Feluda's Riddle)"
 date: 2025-05-05
-draft: false
+draft: true
 tags: []
 categories: []
 ---
