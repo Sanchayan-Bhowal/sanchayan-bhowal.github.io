@@ -6,7 +6,7 @@ tags: []
 categories: []
 ---
 
-This article is in Bengali. I wrote this for a magazine when I was a freshman in B.Math. I am sharing it here for my future self.
+This article is in Bengali. I wrote this for a [magazine](https://bigyanbhash.org/%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A7%81%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%81%E0%A6%A7%E0%A6%BE/) when I was a freshman in B.Math. I am sharing it here for my future self.
 
 ---
 
