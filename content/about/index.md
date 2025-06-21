@@ -16,22 +16,19 @@ More about me.
 <!-- <kbd>2025 - present</kbd> &ensp;&ensp;
 **Ph.D. in Statistics**, *Stanford University*, USA.
 <br>  -->
-<kbd>2023 - 2025</kbd> &ensp;&ensp;
-**MMath**, *Indian Statistical Institute Bangalore*, India.
-<br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-**Project Advisor:** *[Bhaswar Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/) and [Somabha Mukherjee](https://www.somabha.com/)* 
-<br>
-<kbd>2023 - 2025</kbd> &ensp;&ensp;
-**BMath(Hons.)**, *Indian Statistical Institute Bangalore*, India.
+
+
+| |  |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| <kbd>2023 - 2025</kbd>  | **MMath**, *Indian Statistical Institute Bangalore*, India.<br>**Project Advisor:** *[Bhaswar Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/) and [Somabha Mukherjee](https://www.somabha.com/)* |
+| <kbd>2020 - 2023</kbd>  | **BMath(Hons.)**, *Indian Statistical Institute Bangalore*, India.                                     |
 
 ### Experience
 
-<kbd>2022.5 - 2022.7</kbd> &ensp;&ensp;
-**SN Bhatt Memorial Fellowship Program**, *Internation Center of Theoretical Sciences*, India.
-<br>
-<kbd>2023.6 - 2023.7</kbd> &ensp;&ensp;
-**Big Data Summer Institute**, *University of Michigan Ann Arbor*, USA.
+|                             |  |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| <kbd>2023.6 - 2023.7</kbd> | **Big Data Summer Institute**, *University of Michigan Ann Arbor*, USA.  |
+| <kbd>2022.5 - 2022.7</kbd> | **SN Bhatt Memorial Fellowship Program**, *International Centre for Theoretical Sciences*, India.|
 
 ### Awards and Fellowships
 
