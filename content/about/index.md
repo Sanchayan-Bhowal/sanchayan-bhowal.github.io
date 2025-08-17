@@ -38,6 +38,7 @@ More about me.
 - JBNSTS Scholarship (2018-2020)
 
 ### We might have met at...
+- Data Science: Probabilistic and Optimization Methods II <kbd> August, 4-15 2025</kbd>
 
 - Geometry, Probability, and Algorithms <kbd>May, 12-16 2025</kbd>
 
