@@ -6,6 +6,12 @@ showReadingTime: false
 layout: "simple"
 ---
 
+## Teaching Assistantships
+
+- <div style="display: flex; justify-content: space-between;">
+    <span>STATS 203: Regression Models and ANOVA</span>
+    <span>Fall 2025</span>
+  </div>
 
 ## Reading Seminars
 

@@ -31,7 +31,7 @@ Browse through my collection of pictures, each image narrating a unique chapter 
 
 {{< figure
     src="img/CMI_workshop.jpg"
-    alt="Random Geometry and Geometric Group Theory"
+    alt="Mathematical Foundations of Network Models and their Applications at CMI"
     caption="December 2024 I ended the year with the wonderful research school at CMI on Mathematical Foundations of Network Models and their Applications"
     class="center_scaled"
     >}}
@@ -46,7 +46,7 @@ Browse through my collection of pictures, each image narrating a unique chapter 
 {{< figure
     src="img/michigan.jpg"
     alt="U Michigan"
-    caption="Summer 2023 I was at U Michigan. Made some wonderful friends including Samprit Chakraborty, Aytijhya Saha, Samahriti Mukherjee."
+    caption="Summer 2023 I was at U Michigan. Made some wonderful friends including Samprit Chakraborty, [Aytijhya Saha](https://aytijhya.github.io/website/), Samahriti Mukherjee."
     class="center_scaled"
     >}}
 
