@@ -9,7 +9,7 @@ layout: "simple"
 ## Teaching Assistantships
 
 - <div style="display: flex; justify-content: space-between;">
-    <span>STATS 203: Regression Models and ANOVA</span>
+    <span>STATS 110: Introduction to Statistics for Engineering and the Sciences</span>
     <span>Fall 2025</span>
   </div>
 
