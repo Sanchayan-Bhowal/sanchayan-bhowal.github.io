@@ -20,7 +20,7 @@ My research interests lie broadly in probability theory and high-dimensional sta
 
 ------
 ## Preprints
-1. Bhattacharyya, B., Bhowal, S., Das, K., Eslava, L. \& Karmakar, S. Thresholds and Fluctuations in Random Multiplex Networks. [{{< icon "link" >}}](https://arxiv.org/abs/2511.12326)
+1. Bhattacharyya, B., Bhowal, S., Das, K., Eslava, L. \& Karmakar, S. (2025). Thresholds and Fluctuations in Random Multiplex Networks. [{{< icon "link" >}}](https://arxiv.org/abs/2511.12326)
 
 ## Publications
 
