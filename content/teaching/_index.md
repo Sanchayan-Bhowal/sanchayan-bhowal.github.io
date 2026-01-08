@@ -9,6 +9,10 @@ layout: "simple"
 ## Teaching Assistantships
 
 - <div style="display: flex; justify-content: space-between;">
+    <span>STATS 60: Introduction to Statistical Methods: Precalculus</span>
+    <span>Winter 2026</span>
+  </div>
+- <div style="display: flex; justify-content: space-between;">
     <span>STATS 110: Introduction to Statistics for Engineering and the Sciences</span>
     <span>Fall 2025</span>
   </div>
