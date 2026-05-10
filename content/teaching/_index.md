@@ -26,3 +26,8 @@ layout: "simple"
 2. <kbd>Mar - Apr 2024</kbd> : Riemann Surfaces
 
     We started with the basics of Riemann surfaces and covered till Riemann-Roch theorem.
+
+## Course Notes
+Mostly I am terrible at taking notes during lectures, but here are some notes that I have taken for some courses. I plan to update this section as I take more courses. Currently, I only have one decent set of notes to upload :) 
+
+- [Advanced Linear Algebra](/static/docs/ala.pdf): These notes are based on MMath course taught by Prof. BVR Bhat in 2024-25.
