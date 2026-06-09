@@ -20,7 +20,8 @@ My research interests lie broadly in probability theory and high-dimensional sta
 
 ------
 ## Preprints
-1. Bhattacharyya, B., Bhowal, S., Das, K., Eslava, L. \& Karmakar, S. (2025). Thresholds and Fluctuations in Random Multiplex Networks. [{{< icon "link" >}}](https://arxiv.org/abs/2511.12326)
+1. Mukherjee, S., Bhowal, S., Chatterjee, A., & Bhattacharyya, B. (2026). Ising Models on Inhomogeneous Random Graphs: Inference, Local Asymptotic Minimaxity, and Limit of Experiments [{{< icon "link" >}}](https://arxiv.org/abs/2606.07065)
+2. Bhattacharyya, B., Bhowal, S., Das, K., Eslava, L. \& Karmakar, S. (2025). Thresholds and Fluctuations in Random Multiplex Networks. [{{< icon "link" >}}](https://arxiv.org/abs/2511.12326)
 
 ## Publications
 
