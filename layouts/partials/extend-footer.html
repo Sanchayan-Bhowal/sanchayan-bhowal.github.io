@@ -1,0 +1,41 @@
+{{ if hugo.IsProduction }}
+  <style>
+    .mapmyvisitors-counter {
+      width: 220px;
+      max-width: 100%;
+      margin: 1rem auto 0;
+      overflow: hidden;
+      line-height: 0;
+    }
+
+    .mapmyvisitors-counter > * {
+      max-width: 100% !important;
+    }
+
+    .mapmyvisitors-counter iframe,
+    .mapmyvisitors-counter img,
+    .mapmyvisitors-counter object,
+    .mapmyvisitors-counter canvas {
+      width: 220px !important;
+      max-width: 100% !important;
+      height: auto !important;
+    }
+
+    .mapmyvisitors-counter .mapmyvisitors-map-container {
+      background-color: transparent !important;
+    }
+
+    .mapmyvisitors-counter .mapmyvisitors-visitors,
+    .mapmyvisitors-counter .mapmyvisitors-date {
+      display: none !important;
+    }
+  </style>
+
+  <div class="mapmyvisitors-counter">
+    <script
+      type="text/javascript"
+      id="mapmyvisitors"
+      src="https://mapmyvisitors.com/map.js?d=Z8uaiRtMvGBch_hQORBZwgAYlRE8l6XS9W1V0c97gQ4&cl=ffffff&co=1f2937&w=220"
+    ></script>
+  </div>
+{{ end }}
