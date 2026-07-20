@@ -21,13 +21,12 @@ My research interests lie broadly in probability theory and high-dimensional sta
 ------
 ## Preprints
 1. Mukherjee, S., Bhowal, S., Chatterjee, A., & Bhattacharyya, B. (2026). Ising Models on Inhomogeneous Random Graphs: Inference, Local Asymptotic Minimaxity, and Limit of Experiments [{{< icon "link" >}}](https://arxiv.org/abs/2606.07065)
-2. Bhattacharyya, B., Bhowal, S., Das, K., Eslava, L. \& Karmakar, S. (2025). Thresholds and Fluctuations in Random Multiplex Networks. [{{< icon "link" >}}](https://arxiv.org/abs/2511.12326)
 
 ## Publications
-
-1. Bhowal, S., & Mukherjee, S. (2024). Rates of Convergence of the Magnetization in the Tensor Curie–Weiss Potts Model. Journal of Statistical Physics, 192(1), 2. [{{< icon "link" >}}](https://doi.org/10.1007/s10955-024-03382-w)
-2. Bhowal, S., & Mukherjee, S. (2023). Limit theorems and phase transitions in the tensor Curie-Weiss Potts model. Information and Inference: A Journal of the IMA. [{{< icon "link" >}}](https://doi.org/10.1093/imaiai/iaaf014)
-3. Bhowal, S., Samanta, R. J., Ray, A., Bhattacharyya, S., & Hens, C. (2023). Exploring the potential of collective learning to reduce foraging time. Chaos, Solitons & Fractals, 168, 113123. [{{< icon "link" >}}](https://doi.org/10.1016/j.chaos.2023.113123)
+1. Bhattacharyya, B., Bhowal, S., Das, K., Eslava, L. \& Karmakar, S. (2025). Thresholds and Fluctuations in Random Multiplex Networks. Accepted at Canadian Mathematical Bulletin[{{< icon "link" >}}](https://arxiv.org/abs/2511.12326)
+2. Bhowal, S., & Mukherjee, S. (2024). Rates of Convergence of the Magnetization in the Tensor Curie–Weiss Potts Model. Journal of Statistical Physics, 192(1), 2. [{{< icon "link" >}}](https://doi.org/10.1007/s10955-024-03382-w)
+3. Bhowal, S., & Mukherjee, S. (2023). Limit theorems and phase transitions in the tensor Curie-Weiss Potts model. Information and Inference: A Journal of the IMA. [{{< icon "link" >}}](https://doi.org/10.1093/imaiai/iaaf014)
+4. Bhowal, S., Samanta, R. J., Ray, A., Bhattacharyya, S., & Hens, C. (2023). Exploring the potential of collective learning to reduce foraging time. Chaos, Solitons & Fractals, 168, 113123. [{{< icon "link" >}}](https://doi.org/10.1016/j.chaos.2023.113123)
 
 ------
 
