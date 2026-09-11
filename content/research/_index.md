@@ -15,8 +15,7 @@ showComments: false
 ## Overview
 
 
-My research interests lie broadly in probability theory and high-dimensional statistics, with a focus on spin systems, random graphs, and Markov chains. Currently, I am studying the asymptotic behavior of statistical physics models, particularly in mean-field setting. 
-
+My research interests lie broadly in probability theory and high-dimensional statistics, with a focus on spin systems, random graphs, and Markov chains.
 
 ------
 ## Preprints
@@ -32,20 +31,21 @@ My research interests lie broadly in probability theory and high-dimensional sta
 ------
 
 ## Talks
-
+- Triviality of Ising Models on Inhomogeneous Graphs <br>
+  Bangalore Probability Seminar, 2026
 - Threshold Density <br>
-  As part of the course Games, Graphs and Algebra [Notes](/docs/thresholdDensity.pdf)
+  As part of the course Games, Graphs and Algebra, 2025 [Notes](/docs/thresholdDensity.pdf)
 - What is Cutoff?<br>
-  Part of What is? Seminar [Video](https://youtu.be/cskG0fGg5wU)
+  Part of What is? Seminar, 2025 [Video](https://youtu.be/cskG0fGg5wU)
 - Limit Theorems of estimators in the Tensor Curie Weiss Potts Model <br>
-  Bangalore Probability Seminar [Slides](/docs/BPS26_02_24.pdf)
+  Bangalore Probability Seminar, 2024 [Slides](/docs/BPS26_02_24.pdf)
 - Estimation in Curie-Weiss Tensor Potts model <br>
-  Math Club, ISI Bangalore [Video](https://youtu.be/XxchJRrzAQ0)
+  Math Club, ISI Bangalore, 2024 [Video](https://youtu.be/XxchJRrzAQ0)
 - A Tour of Markov Chains <br>
-  Math Club, ISI Bangalore [Video](https://youtu.be/Add6dpfNkA8)
+  Math Club, ISI Bangalore, 2022 [Video](https://youtu.be/Add6dpfNkA8)
 - Alice in 'Probland' <br>
   LIMIT 2021 [Video](https://youtu.be/4zwPtAFe5B0)
 - An Unconventional Approach to Groups <br>
-  ISI Student Seminar [Video](https://youtu.be/XfZJ2sKG6WA)
+  ISI Student Seminar, 2021 [Video](https://youtu.be/XfZJ2sKG6WA)
 
 ------
