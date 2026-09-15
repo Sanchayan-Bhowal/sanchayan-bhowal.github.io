@@ -25,7 +25,7 @@ progressions in sparse random colorings [{{< icon "link" >}}](https://arxiv.org/
 3. Mukherjee, S., Bhowal, S., Chatterjee, A., & Bhattacharyya, B. (2026). Ising Models on Inhomogeneous Random Graphs: Inference, Local Asymptotic Minimaxity, and Limit of Experiments [{{< icon "link" >}}](https://arxiv.org/abs/2606.07065)
 
 ## Publications
-1. Bhattacharyya, B., Bhowal, S., Das, K., Eslava, L. \& Karmakar, S. (2025). Thresholds and Fluctuations in Random Multiplex Networks. Accepted at Canadian Mathematical Bulletin[{{< icon "link" >}}](https://arxiv.org/abs/2511.12326)
+1. Bhattacharyya, B., Bhowal, S., Das, K., Eslava, L. \& Karmakar, S. (2025). Thresholds and Fluctuations in Random Multiplex Networks. Canadian Mathematical Bulletin [{{< icon "link" >}}](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/thresholds-and-fluctuations-of-submultiplexes-in-random-multiplex-networks/7BE9FC50F92344DB3846CDA09DE6E20D)
 2. Bhowal, S., & Mukherjee, S. (2024). Rates of Convergence of the Magnetization in the Tensor Curie–Weiss Potts Model. Journal of Statistical Physics, 192(1), 2. [{{< icon "link" >}}](https://doi.org/10.1007/s10955-024-03382-w)
 3. Bhowal, S., & Mukherjee, S. (2023). Limit theorems and phase transitions in the tensor Curie-Weiss Potts model. Information and Inference: A Journal of the IMA. [{{< icon "link" >}}](https://doi.org/10.1093/imaiai/iaaf014)
 4. Bhowal, S., Samanta, R. J., Ray, A., Bhattacharyya, S., & Hens, C. (2023). Exploring the potential of collective learning to reduce foraging time. Chaos, Solitons & Fractals, 168, 113123. [{{< icon "link" >}}](https://doi.org/10.1016/j.chaos.2023.113123)
