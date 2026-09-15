@@ -31,7 +31,7 @@ More about me.
 | <kbd>2022.5 - 2022.7</kbd> | **SN Bhatt Memorial Fellowship Program**, *International Centre for Theoretical Sciences*, India.|
 
 ### Awards and Fellowships
-
+- P.C. Panesar Gold Medal for outstanding performance in M. Math (2023-25)
 - Regional prize Madhava Mathematics Competition (2023)
 - National award ISLP Poster Competition (2022)
 - KVPY fellowship (2020- Present)
