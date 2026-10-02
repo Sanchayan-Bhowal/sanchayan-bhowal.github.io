@@ -19,10 +19,12 @@ My research interests lie broadly in probability theory and high-dimensional sta
 
 ------
 ## Preprints
-1. Bhattacharyya, B., Bhowal, S., & Sengupta, A., (2026). Thresholds and fluctuations for colorful arithmetic
+1. Bhowal, S., Mukherjee, S. (2026). Higher-Order Fluctuations of the Log-Partition Function for Ising
+Models on Inhomogeneous Random Graphs [{{< icon "link" >}}](https://arxiv.org/pdf/2610.01298)
+2. Bhattacharyya, B., Bhowal, S., & Sengupta, A., (2026). Thresholds and fluctuations for colorful arithmetic
 progressions in sparse random colorings [{{< icon "link" >}}](https://arxiv.org/pdf/2609.15086)
-2. Bhowal, S., Chatterjee, A., & Mukherjee, S. (2026). Scaling Limits for Ising Models on Inhomogeneous Random Graphs and Applications [{{< icon "link" >}}](https://arxiv.org/abs/2608.12804)
-3. Mukherjee, S., Bhowal, S., Chatterjee, A., & Bhattacharyya, B. (2026). Ising Models on Inhomogeneous Random Graphs: Inference, Local Asymptotic Minimaxity, and Limit of Experiments [{{< icon "link" >}}](https://arxiv.org/abs/2606.07065)
+3. Bhowal, S., Chatterjee, A., & Mukherjee, S. (2026). Scaling Limits for Ising Models on Inhomogeneous Random Graphs and Applications [{{< icon "link" >}}](https://arxiv.org/abs/2608.12804)
+4. Mukherjee, S., Bhowal, S., Chatterjee, A., & Bhattacharyya, B. (2026). Ising Models on Inhomogeneous Random Graphs: Inference, Local Asymptotic Minimaxity, and Limit of Experiments [{{< icon "link" >}}](https://arxiv.org/abs/2606.07065)
 
 ## Publications
 1. Bhattacharyya, B., Bhowal, S., Das, K., Eslava, L. \& Karmakar, S. (2025). Thresholds and Fluctuations in Random Multiplex Networks. Canadian Mathematical Bulletin [{{< icon "link" >}}](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/thresholds-and-fluctuations-of-submultiplexes-in-random-multiplex-networks/7BE9FC50F92344DB3846CDA09DE6E20D)
