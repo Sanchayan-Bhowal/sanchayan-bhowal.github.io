@@ -34,6 +34,9 @@ Most of these thoughts are not exact quotes but rather what I remember from our 
 
 - **(November 2026)** Mathematics will now be less about the technical heavy lifting and more about looking for interesting problems.
 
+  {{< figure src="img/AD-light.svg" alt="Two hand-drawn figures, one lifting a barbell and the other gesturing." class="dark:hidden" >}}
+  {{< figure src="img/AD-dark.svg" alt="Two hand-drawn figures, one lifting a barbell and the other gesturing." class="hidden dark:inline" >}}
+
 - **(October 2026)** AI systems generally require the germ of an idea, and then they can push it to its limits. This makes your progress much faster.
 
 - **(Late 2025)** Even if I had a helicopter to reach the mountain peak, I would still prefer to hike because I enjoy hiking.

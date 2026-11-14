@@ -21,6 +21,9 @@
     {{ with $resource }}
       <figure {{ with $class }}class="{{ . }}"{{ end }}>
         {{ with $href }}<a href="{{ . }}">{{ end }}
+        {{ if eq $resource.MediaType.SubType "svg" }}
+          <img class="my-0 rounded-md" src="{{ $resource.RelPermalink }}" alt="{{ $altText }}" />
+        {{ else }}
           <img
             class="my-0 rounded-md"
             srcset="
@@ -31,6 +34,7 @@
             src="{{ (.Resize "660x").RelPermalink }}"
             alt="{{ $altText }}"
           />
+        {{ end }}
         {{ if $href }}</a>{{ end }}
         {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
       </figure>
