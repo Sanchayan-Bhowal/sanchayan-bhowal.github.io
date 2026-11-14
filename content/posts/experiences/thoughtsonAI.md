@@ -26,8 +26,6 @@ The whole point of abstraction was never merely to solve individual problems, bu
 
 Although AI seems to be quite good at solving individual problems, I am not sure whether it will come up with useful abstractions. A common analogy is this: if you ask an AI trained only on pre-group theory mathematics to show the insolvability of the quintic, would it invent group theory? I don't know. Maybe future models will.
 
-I don't know. Maybe future models will.
-
 ## Others' Thoughts
 
 Most of these thoughts are not exact quotes but rather what I remember from our conversations. Here is what some professors and friends had to say. I am sharing their thoughts anonymously for obvious reasons.
@@ -39,18 +37,17 @@ Most of these thoughts are not exact quotes but rather what I remember from our 
 
 - **(October 2026)** AI systems generally require the germ of an idea, and then they can push it to its limits. This makes your progress much faster.
 
-- **(Late 2025)** Even if I had a helicopter to reach the mountain peak, I would still prefer to hike because I enjoy hiking.
-
 - **(October 2026)** The goal of students is to solve problems. People are rewarded for solving problems. No one gets a grant for saying, "This year, I thought about connections between A and B." PhD positions, postdocs, and assistant professorships are all awarded based on the problems you solve.
 
 - **(October 2026)** Solving problems is probably not that important anymore. Think about the other sciences. No one really "solves" anything in biology, for example. I think we still need to understand these solutions.
-
-- **(Early 2026)** I will probably never use AI, primarily because of its environmental impact.
-
-- **(Aug 2026)** I think it is possible to appreciate beautiful math the way one appreciates going sightseeing on vacation. Even if it figured out by AI.
 
 - **(October 2026)** Yes, I don't know what the hiring process will look like. Some people are problem solvers. You give them a problem, and they will try to come up with something to solve it. I don't know what their future will be like. On the other hand, at least in probability, there are things that we know to be true, but no one knows why they happen. Having a probabilistic interpretation of such phenomena will be interesting and not immediate for AI.
 
 - **(October 2026)** We still need students because they bring their heterogeneous opinions and ideas. If everyone just uses AI, we get a homogeneous society.
 
 - **(October 2026)** Statistics is about looking for an actual problem, formulating the math behind it, and then solving the math. Although AI has automated the math, someone still needs to identify interesting and important problems; and build the mathematical framework.
+- **(Aug 2026)** I think it is possible to appreciate beautiful math the way one appreciates going sightseeing on vacation. Even if it figured out by AI.
+
+- **(Early 2026)** I will probably never use AI, primarily because of its environmental impact.
+
+- **(Late 2025)** Even if I had a helicopter to reach the mountain peak, I would still prefer to hike because I enjoy hiking.
