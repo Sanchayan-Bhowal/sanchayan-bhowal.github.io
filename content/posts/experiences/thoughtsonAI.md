@@ -18,7 +18,7 @@ A popular analogy in these discussions is that AI is another revolution, much li
 
 This brings me to what I believe we, as academics, can still contribute.
 
-First, there is the question of **AI-generated mathematical writing**. Currently, AI is not particularly good at writing mathematics. Its proofs are often sloppy, with excessive notation, lengthy explanations in English, and arguments that seem hand-wavy. It is not that AI cannot make these arguments rigorous; rather, it struggles to produce a well-written, rigorous proof in a single attempt. So, one popular view is that our role will be to "de-slop" AI-generated proofs.
+First of all, there is AI writing math. Currently, it is not good at writing math. The proofs are sloppy, have a lot of notation and lengthy English arguments, and seem hand-wavy. It is not that AI cannot make these arguments rigorous; rather, it struggles to produce a well-written, rigorous proof in a single prompt. So, one popular view is that our role will be to "de-slop" AI-generated proofs.
 
 Second, there is something else that I do not see discussed very often in academic settings: **abstraction**.
 
@@ -46,4 +46,8 @@ Most of these thoughts are not exact quotes but rather what I remember from our 
 
 - **(Aug 2026)** I think it is possible to appreciate beautiful math the way one appreciates going sightseeing on vacation. Even if it figured out by AI.
 
-- **(October 2026)** Yes I dont know what hiring process will look like. Some people are problem solvers, you give them a problem they will try to come up with something to solve it. I dont know what their future is like. On the other hand, at least in probability there are parts which we know to be true but no one knows why its happening. Having a probabilitic interpretations of such phenomenon will be interesting and not immediate to AI.
+- **(October 2026)** Yes, I don't know what the hiring process will look like. Some people are problem solvers. You give them a problem, and they will try to come up with something to solve it. I don't know what their future will be like. On the other hand, at least in probability, there are things that we know to be true, but no one knows why they happen. Having a probabilistic interpretation of such phenomena will be interesting and not immediate for AI.
+
+- **(October 2026)** We still need students because they bring their heterogeneous opinions and ideas. If everyone just uses AI, we get a homogeneous society.
+
+- **(October 2026)** Statistics is about looking for an actual problem, formulating the math behind it, and then solving the math. Although AI has automated the math, someone still needs to identify interesting and important problems; and build the mathematical framework.
